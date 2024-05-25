@@ -28,6 +28,6 @@ https://vamdc.org/
 
 Giulio Del Zanna, as a VAMDC consortium member contributed by making the CHIANTI data available. 
 
-Additional features to the atomic data will be made available here, although the basic features will be the same as in 1)
+Additional features to the atomic data will be made available here, although the basic features will be the same as in 1.
 
 Contributions from the community are welcomed. 
