@@ -15,9 +15,9 @@ The database has been developed and mantained by the CHIANTI team.
 The current IDL programs have been developed and mantained by  Peter Young and Giulio Del Zanna
 The web pages and the user guide have been developed by Giulio Del Zanna
 
-3) CHIANTIPy, a set of Python tools developed and mantained by Ken Dere, see https://github.com/chianti-atomic/ChiantiPy
+2) CHIANTIPy, a set of Python tools developed and mantained by Ken Dere, see https://github.com/chianti-atomic/ChiantiPy
 
-4) FIASCO, a set of Python tools developed and mantained by Will Barnes, see https://github.com/wtbarnes/fiasco
+3) FIASCO, a set of Python tools developed and mantained by Will Barnes, see https://github.com/wtbarnes/fiasco
 
 CHIANTI-VIP is an open platform to  develop additional features and provide them to the community. 
 They include additional IDL programs, and a set of python GUIs and virtual CHIANTI interfaces under development. The original 
