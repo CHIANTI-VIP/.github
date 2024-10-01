@@ -1,5 +1,6 @@
 
 
+
 CHIANTI-VIP (CHIANTI Virtual IDL and Python), developed and mantained by Giulio Del Zanna, is a member of the CHIANTI family, where we provide atomic data and codes to the astrophysics community.
 
 The importance of our work has been recognised in 2024 by a NASA group achievement award to the CHIANTI team "for outstanding contributions to the scientific productivity of NASA missions and the creation of a uniquely valuable tool for spectroscopic scientists worldwide."
